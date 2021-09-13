@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="untitledcurtiellas-cop3330-ex06" />
+        <module name="curtiellas-cop3330-ex06" />
       </profile>
     </annotationProcessing>
   </component>

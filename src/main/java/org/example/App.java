@@ -18,12 +18,12 @@ public class App
         int yearNow = Year.now().getValue();
 
         //record current age from user
-        System.out.println("What is your current age?");
+        System.out.print("What is your current age? ");
         String ageString = sc.next();
         int age = Integer.parseInt(ageString);
 
         //record retirement age from user
-        System.out.println("At what age would you like to retire?");
+        System.out.print("At what age would you like to retire? ");
         String retireString = sc.next();
         int retire = Integer.parseInt(retireString);
 
